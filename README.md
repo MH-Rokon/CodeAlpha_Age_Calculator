@@ -22,4 +22,4 @@ A clean, responsive web application that calculates age in years, months, and da
 ## Developed By
 Md Mosharof Hosen Rokon  
 Email: rokonrokon74805@gmail.com  
-GitHub: [github.com/MH-Rokon](https://github.com/MH-Rokon)
+GitHub: https://github.com/MH-Rokon/CodeAlpha_Age_Calculator 
